@@ -1,0 +1,7 @@
+@import "partials/colors";
+header {
+  height: 60px;
+  background-color: $primary;
+  display: flex;
+  align-items: center;
+}

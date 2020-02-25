@@ -5,3 +5,14 @@ body {
   padding: 0;
   font-family: "Open Sans", sans-serif !important;
 }
+
+.box-layout {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1440px) {
+  .box-layout {
+    padding: 0 32px;
+  }
+}

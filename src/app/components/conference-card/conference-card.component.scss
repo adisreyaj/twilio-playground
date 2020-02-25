@@ -1,0 +1,5 @@
+@import "mixins/card";
+.card {
+  min-width: 350px;
+  @include card;
+}

@@ -28,7 +28,8 @@
             "stylePreprocessorOptions": {
               "includePaths": [
                 "src/assets/styles",
-                "src/assets/styles/partials"
+                "src/assets/styles/partials",
+                "src/assets/styles/mixins"
               ]
             },
             "scripts": []

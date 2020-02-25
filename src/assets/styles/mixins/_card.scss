@@ -1,0 +1,17 @@
+/*
+ * File: _card.scss
+ * Project: twilio-playground
+ * Description:  
+ * File Created: Tuesday, 25th February 2020 1:01:46 pm
+ * Author: Adithya Sreyaj
+ * -----
+ * Last Modified: Tuesday, 25th February 2020 1:01:46 pm
+ * Modified By: Adithya Sreyaj<adithya@altorumleren.com>
+ * -----
+ */
+
+@mixin card {
+  background-color: #fff;
+  padding: 32px 24px;
+  border-radius: 4px;
+}
